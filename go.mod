@@ -1,3 +1,3 @@
-module lessons_1
+module golang_lessons
 
 go 1.17
